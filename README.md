@@ -1,2 +1,11 @@
 # TeamChanger-b3
-A b3 plugin for easy and quick team change.
+By pedrxd
+
+# Available commands:
+!red [<name>]     //Dont need explanation.
+!blue [<name>]
+!spec [<name>]
+
+#To do:
+!auto [<name>]    //The same as do auto on game.
+!replay [<name>]  //Go spec then join a team.

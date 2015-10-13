@@ -52,6 +52,6 @@ class TeamchangerPlugin(b3.plugin.Plugin):
         else: 
             sclient = client
             
-        self.console.write('forceteam %s spectator~~' % sclient.cid)
+        self.console.write('forceteam %s spectator' % sclient.cid)
         sclient.message('Moved to spec')
             
